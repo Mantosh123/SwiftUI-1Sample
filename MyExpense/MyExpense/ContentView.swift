@@ -62,7 +62,7 @@ struct ContentView: View {
                     .onDelete(perform: removeRow)
                 }
                 
-            }.navigationTitle("iExpance")
+            }.navigationTitle("MyExpance")
                 .toolbar {
                     Button("Add Expances", systemImage: "plus") {
 //                        let expance = ExpanceItem(name: " Juhi Medicine", type: "Medical", amount: 200)
