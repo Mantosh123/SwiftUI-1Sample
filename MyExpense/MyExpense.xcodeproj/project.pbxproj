@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B4332CA12C974BF100F70985 /* AddExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4332CA02C974BF100F70985 /* AddExpenseView.swift */; };
 		B4701D262C95CA7900ACFA92 /* MyExpenseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4701D252C95CA7900ACFA92 /* MyExpenseApp.swift */; };
 		B4701D282C95CA7900ACFA92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4701D272C95CA7900ACFA92 /* ContentView.swift */; };
 		B4701D2A2C95CA7B00ACFA92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4701D292C95CA7B00ACFA92 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B4332CA02C974BF100F70985 /* AddExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseView.swift; sourceTree = "<group>"; };
 		B4701D222C95CA7900ACFA92 /* MyExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4701D252C95CA7900ACFA92 /* MyExpenseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyExpenseApp.swift; sourceTree = "<group>"; };
 		B4701D272C95CA7900ACFA92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				B4701D252C95CA7900ACFA92 /* MyExpenseApp.swift */,
 				B4701D272C95CA7900ACFA92 /* ContentView.swift */,
+				B4332CA02C974BF100F70985 /* AddExpenseView.swift */,
 				B4701D292C95CA7B00ACFA92 /* Assets.xcassets */,
 				B4701D2B2C95CA7B00ACFA92 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4332CA12C974BF100F70985 /* AddExpenseView.swift in Sources */,
 				B4701D282C95CA7900ACFA92 /* ContentView.swift in Sources */,
 				B4701D262C95CA7900ACFA92 /* MyExpenseApp.swift in Sources */,
 			);
